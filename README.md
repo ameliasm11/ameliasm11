@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ameliasm11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋, I’m Amelia
+Curently working as QA Tester Engineer with hands-on experience in Mobile and Web applications testing. Talent to analyze problem, evaluate and recommends alternatives to solve issues. Project management tool using Jira. And having knowledge about API Testing using Postman. I also love to learn something new to upgrade my skills and knowledge.
 
-<!---
-ameliasm11/ameliasm11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Also curently I'm upgrading my skill and knowledge about Automation Test using Cucumber Selenium Java.
+
