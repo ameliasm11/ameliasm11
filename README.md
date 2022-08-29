@@ -3,3 +3,5 @@ Curently working as QA Tester Engineer with hands-on experience in Mobile and We
 
 I have big interest in Software Testing. Also curently I'm upgrading my skill and knowledge by learn about Automation Test using Cucumber Selenium Java.
 
+Portofolio - Scenario Test: https://docs.google.com/spreadsheets/d/13epiETGKE4WOVHZu3YulRCHhbe35sGeTgibIVMyxPiI/edit#gid=91124038
+
